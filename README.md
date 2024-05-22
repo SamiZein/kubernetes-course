@@ -1,2 +1,2 @@
 # kubernetes-course
-Project done during the Kubernetes course on Boot.dev
+Project written during the Kubernetes course on Boot.dev
